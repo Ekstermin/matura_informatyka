@@ -1,0 +1,4 @@
+6.1 Max 221 Min 7
+6.2 usunac = 149
+6.3 kontrastujacych pikseli jest = 753
+6.4 naj d³ linia = 5

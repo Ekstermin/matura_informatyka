@@ -1,0 +1,5 @@
+4.1 najmniejsz= 1 najwiêksza= 1056392131
+4.2 dlugoœæ= 17 pierwsza liczba to: 193134524 ostatnia liczba to: 223545714
+4.3 liczba luk= 31
+4.3 Wartoœæ luki to: 149
+4.3 Wartoœæ luki to: 11
